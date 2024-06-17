@@ -1,28 +1,59 @@
-Demo
-Here is a working live demo:
+# Portfolio Website 
 
-Getting Started with Create React App
-This project was bootstrapped with [Create React App]
+## Hi, I'm Rucha! 👋
 
-A3vailable Scripts
-In the project directory, you can run:
+Welcome to the repository for my personal portfolio website, built with React.js! 
+
+### Live Demo :
+
+### 🚀 Features
+
+1] About me 
+2] Technical skills
+3] My services
+4] My Work / My Portfolio 
+5] My Contact
+
+### 🛠️ Technologies Used
+1] React.js: A JavaScript library for building user interfaces.
+2] HTML5 & CSS: Markup and styling languages for building web pages.
+3] JavaScript: A programming language for adding interactivity to web applications.
+4] Git: A version control system for tracking changes and collaborating on projects.
+5] Vercel: For deploying projects
+
+### 📖 Getting Started
+Make sure you have Node.js and npm installed on your machine.
+
+### Installation
+
+#### Clone the repository:
+
+git clone https://github.com/yourusername/portfolio-website.git
+cd portfolio-website
+
+#### Install dependencies:
+
+npm install
+
+#### Start the development server:
 
 npm start
-Runs the app in the development mode.
-Open http://localhost:3000 to view it in your browser.
 
-The page will reload when you make changes.
-You may also see any lint errors in the console.
+#### Open your browser:
 
-npm test
-Launches the test runner in the interactive watch mode.
-See the section about [running tests]
+Navigate to http://localhost:3000 to see the website in action.
 
-npm run build
-Builds the app for production to the build folder.\
+### 🌟Contributing
 
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Contributions are welcome! If you'd like to contribute to My Portfolio, please follow these steps:
 
-The build is minified and the filenames include the hashes.
-Your app is ready to be deployed!
+#### Steps to Contribute
+#####Fork the repository: 
+1] Create a new branch: git checkout -b feature/YourFeature
+2] Commit your changes: git commit -m 'Add some feature'
+3] Push to the branch: git push origin feature/YourFeature
+4] Open a pull request.
+
+
+
 
