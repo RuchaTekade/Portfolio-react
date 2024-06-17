@@ -42,7 +42,6 @@ const Footer = () => {
               value={email}
               onChange={handleInputChange}
             />
-            
           </div>
 
           <div className="footer-subscribe" onClick={handleSubscribe}>
@@ -61,8 +60,7 @@ const Footer = () => {
           <p>Connect with me</p>
         </div>
       </div>
-      {subscribed && <div className="subscribe-alert" ></div>}
-     
+      {subscribed && <div className="subscribe-alert"></div>}
     </div>
   );
 };

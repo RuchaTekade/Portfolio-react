@@ -2,33 +2,34 @@ const Services_Data = [
     {
         s_no:"01",
         s_name:"Web design",
-        s_desc:"Web development is the process of building, programming...",
+        s_desc:"Creating visually appealing and user-friendly interfacesthat enhance digital experiences ",
        
     },
     {
         s_no:"02",
-        s_name:"Graphics design",
-        s_desc:"Web development is the process of building, programming..."
+        s_name:"Front-End",
+        s_desc:"Creating visually appealing and interactive user interfaces for seamless user experience.",
     },
     {
         s_no:"03",
-        s_name:"Social media",
-        s_desc:"Web development is the process of building, programming..."
+        s_name:"Back-End",
+        s_desc:"Building robust server-side applications for performance and security,data integration.",
+
     },
     {
         s_no:"04",
-        s_name:"App design",
-        s_desc:"Web development is the process of building, programming..."
+        s_name:"Web-API",
+        s_desc:"Crafting dynamic, user-friendly, scalable web applications tailored to your business needs."
     },
     {
         s_no:"05",
-        s_name:"Digital marketing",
-        s_desc:"Web development is the process of building, programming..."
+        s_name:"Responsive Design",
+        s_desc:"Designing websites that adapt seamlessly to various sizes and screens.",
     },
     {
         s_no:"06",
-        s_name:"Content writing",
-        s_desc:"Web development is the process of building, programming..."
+        s_name:"Full-Stack Integration",
+        s_desc:"Connecting front-end and back-end functionalities ensuring data flow."
     },
 ]
  

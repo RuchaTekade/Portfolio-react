@@ -8,28 +8,28 @@ import project6_img from '../Assets/project_6.svg'
 const mywork_data = [
     {
         w_no:1,
-        w_name:"Web design",
+        w_name:"Edulearn-Website",
         w_img:project1_img ,
-        w_link:"https://github.com/RuchaTekade/EduLearn" ,
-        w_caption:"Edulran"
+        w_link:"https://github.com/RuchaTekade/EduLearn" 
+       
 
     },
     {
         w_no:2,
-        w_name:"Web design",
+        w_name:"Portfolio",
         w_img:project2_img,
         w_link:"https://github.com/RuchaTekade/Portfolio"
     },
     {
         w_no:3,
-        w_name:"Web design",
+        w_name:"Weather-API",
         w_img:project3_img,
         w_link:"https://github.com/RuchaTekade/Weather-API"
 
     },
     {
         w_no:4,
-        w_name:"Web design",
+        w_name:"Netflix-Clone",
         w_img:project4_img,
         w_link:"https://github.com/RuchaTekade/Netflix-Clone"
     },
@@ -42,6 +42,33 @@ const mywork_data = [
         w_no:6,
         w_name:"Web design",
         w_img:project6_img
+    },
+    {
+        w_no:7,
+        w_name:"Web design",
+        w_img:project1_img ,
+        w_link:"https://github.com/RuchaTekade/EduLearn" 
+       
+
+    },
+    {
+        w_no:8,
+        w_name:"Web design",
+        w_img:project2_img,
+        w_link:"https://github.com/RuchaTekade/Portfolio"
+    },
+    {
+        w_no:9,
+        w_name:"Web design",
+        w_img:project3_img,
+        w_link:"https://github.com/RuchaTekade/Weather-API"
+
+    },
+    {
+        w_no:10,
+        w_name:"Web design",
+        w_img:project4_img,
+        w_link:"https://github.com/RuchaTekade/Netflix-Clone"
     },
 ]
  

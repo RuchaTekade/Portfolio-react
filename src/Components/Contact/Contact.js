@@ -6,8 +6,6 @@ import location_icon from "../../Assets/location_icon.svg";
 import call_icon from "../../Assets/call_icon.svg";
 
 const Contact = () => {
-
-
   const onSubmit = async (event) => {
     event.preventDefault();
     const formData = new FormData(event.target);
@@ -21,20 +19,19 @@ const Contact = () => {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
-        Accept: "application/json"
+        Accept: "application/json",
       },
-      body: json
+      body: json,
     }).then((res) => res.json());
 
     if (res.success) {
-     alert(res.message);
-     event.target.reset();
+      alert(res.message);
+      event.target.reset();
     }
   };
 
-
   return (
-    <div  id='contact' className="contact">
+    <div id="contact" className="contact">
       <div className="contact-title">
         <h1>Get in touch</h1>
         <img src={theme_pattern} alt="" />
