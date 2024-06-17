@@ -51,8 +51,11 @@ Contributions are welcome! If you'd like to contribute to My Portfolio, please f
 #####Fork the repository: 
 
 1] Create a new branch: git checkout -b feature/YourFeature
+
 2] Commit your changes: git commit -m 'Add some feature'
+
 3] Push to the branch: git push origin feature/YourFeature
+
 4] Open a pull request.
 
 
