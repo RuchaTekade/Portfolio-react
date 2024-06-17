@@ -8,7 +8,7 @@ import project6_img from '../Assets/project_6.svg'
 const mywork_data = [
     {
         w_no:1,
-        w_name:"Edulearn-Website",
+        w_name:"Edulearn",
         w_img:project1_img ,
         w_link:"https://github.com/RuchaTekade/EduLearn" 
        

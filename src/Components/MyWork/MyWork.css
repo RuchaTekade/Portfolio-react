@@ -114,7 +114,8 @@
     height: 100%;
   }
   .work-item .overlay {
-    font-size: 28px;
+    font-size: 18px;
+    text-align: center;
   }
   .mywork-showmore {
     padding: 20px 40px;
