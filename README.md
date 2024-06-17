@@ -5,7 +5,7 @@
 
 Welcome to the repository for my personal portfolio website, built with React.js! 
 
-### Live Demo :
+### Live Demo : https://portfolio-react-ten-psi.vercel.app/
 
 ### 🚀 Features
 
@@ -28,11 +28,6 @@ Welcome to the repository for my personal portfolio website, built with React.js
 
 ### 📖 Getting Started
 Make sure you have Node.js and npm installed on your machine.
-
-
-
-
-
 
 ### Installation
 
@@ -81,5 +76,5 @@ git commit -m 'Add some feature'
 ```
 4] Open a pull request.
 
-
+Thank You For checking out my website!!🙆‍♀️
 
